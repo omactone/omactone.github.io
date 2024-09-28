@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omactone.github.io/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/app/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/assets/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/css/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/data/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/includes/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/item/sitemap.omactone.gz
+Sitemap: https://omactone.github.io/src/sitemap.omactone.gz
